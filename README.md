@@ -5,7 +5,7 @@ This project demonstrates how to build a **highly available and resilient networ
 ## 📌 Problem Statement
 
 In critical networks, even a **single point of failure**—such as a device or link going down—can cause complete network outages. Simply adding redundant physical paths without proper control protocols may result in:
-
+   
 - Network loops
 - Broadcast storms
 - Service disruption
